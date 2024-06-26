@@ -1,0 +1,74 @@
+CRITICAL - 2024-05-15 03:58:35 --> ErrorException: Undefined array key "nama48"
+[Method: GET, Route: Mahasiswa]
+in APPPATH\Views\mahasiswa\v_Tampildata.php on line 33.
+ 1 APPPATH\Views\mahasiswa\v_Tampildata.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama48"', 'D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\app\\Views\\mahasiswa\\v_Tampildata.php', 33)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\app\\Views\\mahasiswa\\v_Tampildata.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Mahasiswa/v_Tampildata', [], true)
+ 5 APPPATH\Controllers\Mahasiswa.php(15): view('Mahasiswa/v_Tampildata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-05-15 03:59:59 --> ErrorException: Undefined array key "jk049"
+[Method: GET, Route: Mahasiswa]
+in APPPATH\Views\mahasiswa\v_Tampildata.php on line 35.
+ 1 APPPATH\Views\mahasiswa\v_Tampildata.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jk049"', 'D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\app\\Views\\mahasiswa\\v_Tampildata.php', 35)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\app\\Views\\mahasiswa\\v_Tampildata.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Mahasiswa/v_Tampildata', [], true)
+ 5 APPPATH\Controllers\Mahasiswa.php(15): view('Mahasiswa/v_Tampildata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-05-15 04:00:20 --> ErrorException: Undefined array key "jenkelk049"
+[Method: GET, Route: Mahasiswa]
+in APPPATH\Views\mahasiswa\v_Tampildata.php on line 35.
+ 1 APPPATH\Views\mahasiswa\v_Tampildata.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jenkelk049"', 'D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\app\\Views\\mahasiswa\\v_Tampildata.php', 35)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\app\\Views\\mahasiswa\\v_Tampildata.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Mahasiswa/v_Tampildata', [], true)
+ 5 APPPATH\Controllers\Mahasiswa.php(15): view('Mahasiswa/v_Tampildata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-05-15 04:00:43 --> ErrorException: Undefined array key "jenkelk048"
+[Method: GET, Route: Mahasiswa]
+in APPPATH\Views\mahasiswa\v_Tampildata.php on line 35.
+ 1 APPPATH\Views\mahasiswa\v_Tampildata.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jenkelk048"', 'D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\app\\Views\\mahasiswa\\v_Tampildata.php', 35)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\app\\Views\\mahasiswa\\v_Tampildata.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Mahasiswa/v_Tampildata', [], true)
+ 5 APPPATH\Controllers\Mahasiswa.php(15): view('Mahasiswa/v_Tampildata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-05-15 04:00:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/menu.php"
+[Method: GET, Route: Mahasiswa]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/menu.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/menu', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Mahasiswa/v_Tampildata', [], true)
+ 4 APPPATH\Controllers\Mahasiswa.php(15): view('Mahasiswa/v_Tampildata', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')

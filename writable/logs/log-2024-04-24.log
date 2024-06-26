@@ -1,0 +1,205 @@
+CRITICAL - 2024-04-24 05:29:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/beranda.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/beranda.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/beranda', [], true)
+ 3 APPPATH\Controllers\Layout.php(9): view('layout/beranda')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:32:47 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/beranda.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/beranda.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/beranda', [], true)
+ 3 APPPATH\Controllers\Layout.php(9): view('layout/beranda')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:33:47 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Layout/beranda.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Layout/beranda.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/beranda', [], true)
+ 3 APPPATH\Controllers\Layout.php(9): view('Layout/beranda')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:33:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Layout/beranda.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Layout/beranda.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/beranda', [], true)
+ 3 APPPATH\Controllers\Layout.php(9): view('Layout/beranda')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:33:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Layout/beranda.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Layout/beranda.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/beranda', [], true)
+ 3 APPPATH\Controllers\Layout.php(9): view('Layout/beranda')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:33:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Layout/beranda.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Layout/beranda.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/beranda', [], true)
+ 3 APPPATH\Controllers\Layout.php(9): view('Layout/beranda')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:33:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Layout/beranda.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Layout/beranda.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/beranda', [], true)
+ 3 APPPATH\Controllers\Layout.php(9): view('Layout/beranda')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:34:49 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: Annex]
+in APPPATH\Views\layout\v_beranda.php on line 1.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/v_beranda', [], true)
+ 4 APPPATH\Controllers\Layout.php(9): view('Layout/v_beranda')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:35:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/menu.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/menu.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/menu', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/v_beranda', [], true)
+ 4 APPPATH\Controllers\Layout.php(9): view('Layout/v_beranda')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:36:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/menu.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/menu.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/menu', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/v_beranda', [], true)
+ 4 APPPATH\Controllers\Layout.php(9): view('Layout/v_beranda')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:38:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/menu.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/menu.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/menu', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/v_beranda', [], true)
+ 4 APPPATH\Controllers\Layout.php(9): view('Layout/v_beranda')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:38:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/menu.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/menu.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/menu', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/v_beranda', [], true)
+ 4 APPPATH\Controllers\Layout.php(9): view('Layout/v_beranda')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:38:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/menu.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/menu.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/menu', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/v_beranda', [], true)
+ 4 APPPATH\Controllers\Layout.php(9): view('Layout/v_beranda')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:40:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Layout/main.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Layout/main.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('Layout/main', [], true)
+ 3 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/v_menu', [], true)
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/v_beranda', [], true)
+ 5 APPPATH\Controllers\Layout.php(9): view('Layout/v_beranda')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-04-24 05:40:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Layout/main.php"
+[Method: GET, Route: Annex]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Layout/main.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('Layout/main', [], true)
+ 3 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layout/v_menu', [], true)
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Layout/v_beranda', [], true)
+ 5 APPPATH\Controllers\Layout.php(9): view('Layout/v_beranda')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\controllers\Layout->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Layout))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\22 mi_maulana eka abdiliah\\semester 4\\Pemrograman web III\\ci4ajax_maulanaekaabdilah\\public\\index.php')

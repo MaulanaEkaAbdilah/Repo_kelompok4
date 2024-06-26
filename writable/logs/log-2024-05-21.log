@@ -1,0 +1,62 @@
+CRITICAL - 2024-05-21 20:03:59 --> Error: Undefined constant "App\Controllers\data"
+[Method: GET, Route: Mahasiswa/ambildata]
+in APPPATH\Controllers\Mahasiswa.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->ambildata()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-05-21 20:08:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Mahasiswa/modaltambah.php"
+[Method: GET, Route: Mahasiswa/formtambah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Mahasiswa/modaltambah.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Mahasiswa/modaltambah', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(34): view('Mahasiswa/modaltambah')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->formtambah()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-05-21 20:11:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Mahasiswa/modaltambah.php"
+[Method: GET, Route: Mahasiswa/formtambah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Mahasiswa/modaltambah.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Mahasiswa/modaltambah', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(34): view('Mahasiswa/modaltambah')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->formtambah()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-05-21 20:11:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Mahasiswa/modaltambah.php"
+[Method: GET, Route: Mahasiswa/formtambah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Mahasiswa/modaltambah.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Mahasiswa/modaltambah', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(34): view('Mahasiswa/modaltambah')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->formtambah()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\ci4ajax_maulanaekaabdilah\\public\\index.php')
+CRITICAL - 2024-05-21 20:14:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Mahasiswa/modaltambah.php"
+[Method: GET, Route: Mahasiswa/formtambah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Mahasiswa/modaltambah.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Mahasiswa/modaltambah', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(34): view('Mahasiswa/modaltambah')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Mahasiswa->formtambah()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\ci4ajax_maulanaekaabdilah\\public\\index.php')
